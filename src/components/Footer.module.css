@@ -1,0 +1,27 @@
+.ftlinks{
+    /* border: 1px solid yellow; */
+    color: white;
+    margin: auto;
+    margin-top: 30px;
+    width: 50%;
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer{
+    border: 1px solid black;
+    background-color: #112E25;
+    height: 150px;
+    margin-top: 40px;
+}
+
+.icons{
+    color: white;
+    /* border: 1px solid white; */
+    width: 30%;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}

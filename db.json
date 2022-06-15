@@ -1,0 +1,13 @@
+{
+    "products" :[
+        {"id":1, "name":"Standard belt-Black", "img":"https://cdn.shopify.com/s/files/1/0044/9802/products/Standard-Belt-Black-Front_360x.jpg?v=1648152389"},
+        {"id":2, "name":"Standard belt-Cognac", "img":"https://cdn.shopify.com/s/files/1/0044/9802/products/TG-Classic-Belt-Cognac-Stainless-Thumb_360x.jpg?v=1648151092"},
+        {"id":3, "name":"Utility Bifold-Natural","img":"https://cdn.shopify.com/s/files/1/0044/9802/products/bifold_natural_2015_thumb_01_ad8f5886-5713-4322-a77b-7979818fe9d2_360x.jpg?v=1595467603"},
+        {"id":4, "name":"Standard Mug","img":"https://cdn.shopify.com/s/files/1/0044/9802/products/Mazama-Standard-Mug-Sandstone_360x.jpg?v=1650000370"},
+        {"id":5, "name":"Utility Bifold-Natural","img":"https://cdn.shopify.com/s/files/1/0044/9802/products/bifold_cognac_2015_thumb_01_d0c96c99-25be-4bae-9eab-297be4d54904_360x.jpg?v=1603228378"},
+        {"id":6, "name":"Utility Bifold-Natural","img":"https://cdn.shopify.com/s/files/1/0044/9802/products/singlewrist_cognac_stainless_2016_thumb_01_16987cf2-4984-4618-a6d9-1ec11655c1c9_360x.jpg?v=1623205543"},
+        {"id":7, "name":"Utility Bifold-Natural","img":"https://cdn.shopify.com/s/files/1/0044/9802/products/travel_natural_2015_thumb_60b733fe-dff9-4d29-8bd3-fbffd92c3775_360x.jpeg?v=1597258101"},
+        {"id":8, "name":"Utility Bifold-Natural","img":"https://cdn.shopify.com/s/files/1/0044/9802/products/doublewrist_cognac_stainless_2016_thumb_01_e933221c-fe8b-41c7-988d-66b5280677f4_360x.jpg?v=1609960864"},
+        {"id":9, "name":"Utility Bifold-Natural","img":"https://cdn.shopify.com/s/files/1/0044/9802/products/Tanner-Goods-High-Sabaku-Freshener-Thumb-New_360x.jpg?v=1606887893"}
+    ]
+}

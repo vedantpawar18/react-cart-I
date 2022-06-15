@@ -1,0 +1,15 @@
+.box{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    padding: 3px;
+}
+
+.container{
+    gap: 20px;
+    padding: 20px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* border: 1px solid black; */
+    width: 88%;
+    /* display:"flex", gap:"20px", padding:"10px"} */
+}
