@@ -8,6 +8,8 @@ import ContactUs from './pages/ContactUs';
 import FAQ from './pages/FAQ';
 import Products from './pages/Products';
 import Footer from './components/Footer';
+import RequireAuth from './hoc/RequireAuth';
+import Login from './pages/Login';
 
 
 
@@ -17,7 +19,8 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<Home/>} />
-          <Route path="Products" element={<Products />} />
+          <Route path="/login" element={<Login />} />
+          <Route path="Products" element={<RequireAuth><Products /></RequireAuth>} />
           <Route path="AboutUs" element={<AboutUs/>} />
           <Route path="ContactUs" element={<ContactUs/>} />
           <Route path="FAQ" element={<FAQ />} />

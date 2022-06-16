@@ -11,6 +11,7 @@
     display: flex;
     align-items: center;
     color: white;
+    justify-content: space-evenly;
 }
 
 Link:hover{
